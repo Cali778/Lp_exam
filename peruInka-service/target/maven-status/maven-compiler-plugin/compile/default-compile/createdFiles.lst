@@ -1,0 +1,4 @@
+pe\com\peruInka\service\services\UserService.class
+pe\com\peruInka\service\services\UserServiceImpl.class
+pe\com\peruInka\service\util\Person.class
+pe\com\peruInka\service\services\PeruInkaService.class

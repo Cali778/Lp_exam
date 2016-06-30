@@ -1,0 +1,5 @@
+pe\com\peruInka\webapp\controller\MaintainController.class
+pe\com\peruInka\webapp\controller\DashboardController.class
+pe\com\peruInka\webapp\controller\security\SessionDetail.class
+pe\com\peruInka\webapp\controller\AdminController.class
+pe\com\peruInka\webapp\controller\security\DAOAuthenticationProvider.class
